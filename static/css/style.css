@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Quintessential&display=swap');
+*{
+    font-family: 'Quintessential', cursive;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+#fill_up_form{
+    border: solid 2px black ;
+    border-radius: 15px;
+}
